@@ -1,4 +1,4 @@
-# Quick Uninstall
+# UnInk
 
 > 右键快捷方式，一键直达卸载
 
@@ -32,8 +32,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/quick-uninstall.git
-cd quick-uninstall
+git clone https://github.com/666-gy/UnInk.git
+cd UnInk
 
 # 构建可执行文件
 build.bat
