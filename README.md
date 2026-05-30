@@ -1,4 +1,4 @@
-# UnInk
+# Unlnk
 
 > 右键快捷方式，一键直达卸载
 
@@ -12,7 +12,7 @@
 
 ## 为什么需要这个工具？
 
-| 场景 | 传统方式 | Quick Uninstall |
+| 场景 | 传统方式 | Unlnk |
 |------|---------|-----------------|
 | 卸载软件 | 设置 → 应用 → 找到软件 → 卸载 | 右键快捷方式 → 卸载 |
 | 绿色软件 | 找不到卸载入口，手动删文件夹 | 自动识别，提示删除位置 |
@@ -24,7 +24,7 @@
 
 ### 方式一：直接下载（推荐）
 
-1. 下载 [Releases](https://github.com/666-gy/UnInk/releases) 中的 `UnInk.zip`
+1. 下载 [Releases](https://github.com/666-gy/Unlnk/releases) 中的 `Unlnk.zip`
 2. 解压后依次双击`bulid.bat`和`install.bat`
 3. 完成！右键任意快捷方式即可使用
 
@@ -32,8 +32,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/666-gy/UnInk.git
-cd UnInk
+git clone https://github.com/666-gy/Unlnk.git
+cd Unlnk
 
 # 构建可执行文件
 build.bat
@@ -109,7 +109,7 @@ install.bat
 ## 项目结构
 
 ```
-quick-uninstall/
+Unlnk/
 ├── uninstall_helper.py    # 核心逻辑（构建时生成 exe）
 ├── build.bat              # 构建脚本
 ├── install.bat            # 安装右键菜单
