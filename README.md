@@ -24,8 +24,8 @@
 
 ### 方式一：直接下载（推荐）
 
-1. 下载 [Releases](https://github.com/yourname/quick-uninstall/releases) 中的 `QuickUninstall.zip`
-2. 解压后双击 `install.bat`
+1. 下载 [Releases](https://github.com/666-gy/UnInk/releases) 中的 `UnInk.zip`
+2. 解压后依次双击`bulid.bat`和`install.bat`
 3. 完成！右键任意快捷方式即可使用
 
 ### 方式二：从源码构建
